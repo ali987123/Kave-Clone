@@ -120,7 +120,7 @@ const Services = () => {
           <img 
             src={selectedCategory.image} 
             alt={selectedCategory.name} 
-            className="w-full max-w-lg md:max-w-3xl h-auto object-contain rounded-lg"
+            className="w-full max-w-lg md:max-w-3xl h-auto object-contain rounded-lg mt-4 "
           />
         </div>
       </div>
